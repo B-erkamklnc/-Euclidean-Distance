@@ -1,6 +1,6 @@
 # Euclidean Distance
 
-Euclidean Distance, kullanıcıdan alınan 2D koordinatlar arasında minimum Öklit mesafeyi hesaplayan ve bu mesafeyi görselleştiren bir Python uygulamasıdır.
+Euclidean Distance, kullanıcıdan alınan 2D koordinatlar arasında minimum Öklit mesafeyi hesaplayan ve bu mesafesini görselleştiren Python uygulamasıdır.
 
 ---
 
@@ -43,7 +43,7 @@ Projeyi çalıştırmak için terminale aşağıdaki komutu girin:
 python main.py
 ```
 
-Program çalıştıktan sonra adımları takip ederek koordinatlarınızı girin. Program minimum Öklit mesafeyi hesaplayacak ve bir grafikle gösterecektir.
+Program çalıştıktan sonra adımları takip ederek koordinatlarınızı girin. Program minimum Öklit mesafesini hesaplayacak ve bir grafiklete gösterecektir.
 
 ### Örnek Çalışma Akışı:
 
