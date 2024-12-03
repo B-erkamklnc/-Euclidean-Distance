@@ -1,6 +1,6 @@
-# Coordinate Distance Finder
+# Euclidean-Distance
 
-Coordinate Distance Finder, kullanıcıdan alınan 2D koordinatlar arasında minimum Öklit mesafeyi hesaplayan ve bu mesafeyi görselleştiren bir Python uygulamasıdır.
+Euclidean-Distance, kullanıcıdan alınan 2D koordinatlar arasında minimum Öklit mesafeyi hesaplayan ve bu mesafeyi görselleştiren bir Python uygulamasıdır.
 
 ---
 
